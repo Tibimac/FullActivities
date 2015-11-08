@@ -1,6 +1,11 @@
 # FullActivities
 Exercice "FullActivities" de la semaine 7 du MOOC "Programmation iPhone et iPad". Réalisation : 18 juin 2014
 
+[![FullActivities](http://www.tibimac.com/uploads_forums/github/FullActivities-List.png)](https://youtu.be/nRWQNgkr79U "FullActivities")
+[![FullActivities](http://www.tibimac.com/uploads_forums/github/FullActivities-Task.png)](https://youtu.be/nRWQNgkr79U "FullActivities")
+
+Vidéo de démo : https://youtu.be/nRWQNgkr79U
+
 - ARC désactivé.
 - Structure MVC.
 - Pas de storyboard.
